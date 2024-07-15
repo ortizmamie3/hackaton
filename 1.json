@@ -1,0 +1,2183 @@
+[
+    {
+      "type": "newPage",
+      "config": {}
+    },
+    {
+      "type": "gotoUrl",
+      "config": {
+        "url": "https://x.com/",
+        "timeout": 30000,
+        "remark": ""
+      }
+    },
+    {
+      "type": "waitTime",
+      "config": {
+        "timeoutType": "fixedValue",
+        "timeout": 7000,
+        "timeoutMin": 1000,
+        "timeoutMax": 300000,
+        "remark": ""
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "CSS",
+        "selector": "[dir='ltr'][style='text-overflow\\3A \\ unset\\;\\ color\\3A \\ rgb\\(29\\,\\ 155\\,\\ 240\\)\\;']",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": ""
+      }
+    },
+    {
+      "type": "waitTime",
+      "config": {
+        "timeoutType": "fixedValue",
+        "timeout": 3000,
+        "timeoutMin": 1000,
+        "timeoutMax": 300000,
+        "remark": "",
+        "_copyItemIndex": "0_2",
+        "_copyItemType": ""
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "CSS",
+        "selector": "#react-root > div > div > div > main > div > div > div > div.css-175oi2r.r-1ny4l3l.r-6koalj.r-16y2uox > div.css-175oi2r.r-16y2uox.r-f8sm7e.r-13qz1uu.r-1ye8kvj > div > button:nth-child(6) > div",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": ""
+      }
+    },
+    {
+      "type": "waitTime",
+      "config": {
+        "timeoutType": "fixedValue",
+        "timeout": 3000,
+        "timeoutMin": 1000,
+        "timeoutMax": 300000,
+        "remark": "",
+        "_copyItemIndex": "0_4",
+        "_copyItemType": ""
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "CSS",
+        "selector": "#react-root > div > div > div > main > div > div > div > div.css-175oi2r.r-1ny4l3l.r-6koalj.r-16y2uox > div.css-175oi2r.r-16y2uox.r-f8sm7e.r-13qz1uu.r-1ye8kvj > div.css-175oi2r.r-kemksi.r-1p0dtai.r-zchlnj.r-1d2f490.r-1xcajam > div > div > div.css-175oi2r > div > div > button > div",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": ""
+      }
+    },
+    {
+      "type": "waitTime",
+      "config": {
+        "timeoutType": "fixedValue",
+        "timeout": 3000,
+        "timeoutMin": 1000,
+        "timeoutMax": 300000,
+        "remark": "",
+        "_copyItemIndex": "0_6",
+        "_copyItemType": ""
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "CSS",
+        "selector": "#layers > div:nth-child(2) > div > div > div > div > div > div.css-175oi2r.r-1ny4l3l.r-18u37iz.r-1pi2tsx.r-1777fci.r-1xcajam.r-ipm5af.r-g6jmlv.r-1kihuf0.r-xr3zp9.r-1awozwy.r-1pjcn9w > div.css-175oi2r.r-kemksi.r-pm9dpa.r-1rnoaur.r-1867qdf.r-f8sm7e.r-13qz1uu.r-1ye8kvj > div > div > div > div > div.css-175oi2r.r-13qz1uu > button > div",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": ""
+      }
+    },
+    {
+      "type": "waitForSelector",
+      "config": {
+        "selector": "[role=\"button\"][data-testid=\"like\"]",
+        "serial": 1,
+        "isShow": "1",
+        "timeout": 30000,
+        "remark": ""
+      }
+    },
+    {
+      "type": "waitTime",
+      "config": {
+        "timeoutType": "randomInterval",
+        "timeout": 2044,
+        "timeoutMin": 5678,
+        "timeoutMax": 7654,
+        "remark": ""
+      }
+    },
+    {
+      "type": "scrollPage",
+      "config": {
+        "distance": 1543,
+        "type": "smooth",
+        "scrollType": "pixel",
+        "position": "middle",
+        "remark": "",
+        "rangeType": "window",
+        "selectorRadio": "CSS",
+        "selector": "",
+        "serial": 1
+      }
+    },
+    {
+      "type": "scrollPage",
+      "config": {
+        "distance": 0,
+        "type": "smooth",
+        "scrollType": "position",
+        "position": "top",
+        "remark": ""
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selector": "[data-testid=\"tweetButton\"]",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": ""
+      }
+    },
+    {
+      "type": "newPage",
+      "config": {}
+    },
+    {
+      "type": "gotoUrl",
+      "config": {
+        "url": "https://x.com/saltwatergames",
+        "timeout": 10000,
+        "remark": ""
+      }
+    },
+    {
+      "type": "waitForSelector",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div/div[1]/button",
+        "serial": 1,
+        "isShow": "1",
+        "timeout": 30000,
+        "variable": "",
+        "remark": ""
+      }
+    },
+    {
+      "type": "focusElement",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div/div[1]/button",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "remark": ""
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "//*[@id=\"react-root\"]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div/div[1]/button",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": ""
+      }
+    },
+    {
+      "type": "waitTime",
+      "config": {
+        "timeoutType": "fixedValue",
+        "timeout": 7000,
+        "timeoutMin": 1000,
+        "timeoutMax": 300000,
+        "remark": ""
+      }
+    },
+    {
+      "type": "gotoUrl",
+      "config": {
+        "url": "https://x.com/bluwhaleai/status/1805592517443780899",
+        "timeout": 10000,
+        "remark": "переход по ссылке"
+      }
+    },
+    {
+      "type": "waitForSelector",
+      "config": {
+        "selectorRadio": "CSS",
+        "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[2]/div/div[2]/div/div/div/div[3]/aside/div[2]/button/div/div[2]/div[1]/div[2]/button/div",
+        "serial": 1,
+        "isShow": "1",
+        "timeout": 10000,
+        "variable": "",
+        "remark": "появление кнопки follow"
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[2]/div/div[2]/div/div/div/div[3]/aside/div[2]/button/div/div[2]/div[1]/div[2]/button/div",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": "follow нажатие"
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div[2]/button[2]/div",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": "cancel unfollow"
+      }
+    },
+    {
+      "type": "focusElement",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "remark": "фокус на like"
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": "like"
+      }
+    },
+    {
+      "type": "waitTime",
+      "config": {
+        "timeoutType": "fixedValue",
+        "timeout": 10000,
+        "timeoutMin": 1000,
+        "timeoutMax": 300000,
+        "remark": ""
+      }
+    },
+    {
+      "type": "focusElement",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "remark": "фокус на репосте"
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": "репост"
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/div",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": "подтверждение репоста"
+      }
+    },
+    {
+      "type": "focusElement",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "remark": "фокус на репосте",
+        "_copyItemIndex": "0_28",
+        "_copyItemType": ""
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": "репост",
+        "_copyItemIndex": "0_29",
+        "_copyItemType": ""
+      }
+    },
+    {
+      "type": "focusElement",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "remark": "фокус комент"
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": "нажатие на комент"
+      }
+    },
+    {
+      "type": "inputContent",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div[1]/div/div[1]/div/div/div/div/div/div[2]/div/div/div/div",
+        "serialType": "fixedValue",
+        "selectorType": "selector",
+        "element": "",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "intervals": 300,
+        "content": "Great",
+        "isRandom": "1",
+        "randomContent": "Great\r\nNice to see it\r\nwell\r\ni'm trust it\r\nHmm\r\nWow!\r\n.\r\nSoo interesting",
+        "randomInputNum": {
+          "min": 0.1,
+          "max": 10
+        },
+        "remark": "ввод комента"
+      }
+    },
+    {
+      "type": "click",
+      "config": {
+        "selectorRadio": "XPath",
+        "selector": "//*[@id=\"layers\"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div/button",
+        "selectorType": "selector",
+        "element": "",
+        "serialType": "fixedValue",
+        "serial": 1,
+        "serialMin": 1,
+        "serialMax": 50,
+        "button": "left",
+        "type": "click",
+        "remark": "post нажатие"
+      }
+    },
+    {
+      "type": "waitTime",
+      "config": {
+        "timeoutType": "fixedValue",
+        "timeout": 10000,
+        "timeoutMin": 1000,
+        "timeoutMax": 300000,
+        "remark": ""
+      }
+    },
+
+
+
+
+
+    {
+        "type": "gotoUrl",
+        "config": {
+          "url": "https://x.com/bluwhaleai/status/1804846869022933397",
+          "timeout": 10000,
+          "remark": "переход по ссылке"
+        }
+      },
+      
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на like"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "like"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "подтверждение репоста"
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте",
+          "_copyItemIndex": "0_28",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост",
+          "_copyItemIndex": "0_29",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус комент"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "нажатие на комент"
+        }
+      },
+      {
+        "type": "inputContent",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div[1]/div/div[1]/div/div/div/div/div/div[2]/div/div/div/div",
+          "serialType": "fixedValue",
+          "selectorType": "selector",
+          "element": "",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "intervals": 300,
+          "content": "Great",
+          "isRandom": "1",
+          "randomContent": "Great\r\nNice to see it\r\nwell\r\ni'm trust it\r\nHmm\r\nWow!\r\n.\r\nSoo interesting",
+          "randomInputNum": {
+            "min": 0.1,
+            "max": 10
+          },
+          "remark": "ввод комента"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "//*[@id=\"layers\"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "post нажатие"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+
+
+
+      {
+        "type": "gotoUrl",
+        "config": {
+          "url": "https://x.com/bluwhaleai/status/1803086773511156133",
+          "timeout": 10000,
+          "remark": "переход по ссылке"
+        }
+      },
+      
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на like"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "like"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "подтверждение репоста"
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте",
+          "_copyItemIndex": "0_28",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост",
+          "_copyItemIndex": "0_29",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус комент"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "нажатие на комент"
+        }
+      },
+      {
+        "type": "inputContent",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div[1]/div/div[1]/div/div/div/div/div/div[2]/div/div/div/div",
+          "serialType": "fixedValue",
+          "selectorType": "selector",
+          "element": "",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "intervals": 300,
+          "content": "Great",
+          "isRandom": "1",
+          "randomContent": "Great\r\nNice to see it\r\nwell\r\ni'm trust it\r\nHmm\r\nWow!\r\n.\r\nSoo interesting",
+          "randomInputNum": {
+            "min": 0.1,
+            "max": 10
+          },
+          "remark": "ввод комента"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "//*[@id=\"layers\"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "post нажатие"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+
+
+      {
+        "type": "gotoUrl",
+        "config": {
+          "url": "https://x.com/bluwhaleai/status/1801272321811853323",
+          "timeout": 10000,
+          "remark": "переход по ссылке"
+        }
+      },
+      
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на like"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "like"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "подтверждение репоста"
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте",
+          "_copyItemIndex": "0_28",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост",
+          "_copyItemIndex": "0_29",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус комент"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "нажатие на комент"
+        }
+      },
+      {
+        "type": "inputContent",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div[1]/div/div[1]/div/div/div/div/div/div[2]/div/div/div/div",
+          "serialType": "fixedValue",
+          "selectorType": "selector",
+          "element": "",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "intervals": 300,
+          "content": "Great",
+          "isRandom": "1",
+          "randomContent": "Great\r\nNice to see it\r\nwell\r\ni'm trust it\r\nHmm\r\nWow!\r\n.\r\nSoo interesting",
+          "randomInputNum": {
+            "min": 0.1,
+            "max": 10
+          },
+          "remark": "ввод комента"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "//*[@id=\"layers\"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "post нажатие"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+
+
+
+
+      {
+        "type": "gotoUrl",
+        "config": {
+          "url": "https://x.com/bluwhaleai/status/1800942957794668870",
+          "timeout": 10000,
+          "remark": "переход по ссылке"
+        }
+      },
+      
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на like"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "like"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "подтверждение репоста"
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте",
+          "_copyItemIndex": "0_28",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост",
+          "_copyItemIndex": "0_29",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус комент"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "нажатие на комент"
+        }
+      },
+      {
+        "type": "inputContent",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div[1]/div/div[1]/div/div/div/div/div/div[2]/div/div/div/div",
+          "serialType": "fixedValue",
+          "selectorType": "selector",
+          "element": "",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "intervals": 300,
+          "content": "Great",
+          "isRandom": "1",
+          "randomContent": "Great\r\nNice to see it\r\nwell\r\ni'm trust it\r\nHmm\r\nWow!\r\n.\r\nSoo interesting",
+          "randomInputNum": {
+            "min": 0.1,
+            "max": 10
+          },
+          "remark": "ввод комента"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "//*[@id=\"layers\"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "post нажатие"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+
+
+
+
+      {
+        "type": "gotoUrl",
+        "config": {
+          "url": "https://x.com/bluwhaleai/status/1798354103816335758",
+          "timeout": 10000,
+          "remark": "переход по ссылке"
+        }
+      },
+      
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на like"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "like"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "подтверждение репоста"
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте",
+          "_copyItemIndex": "0_28",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост",
+          "_copyItemIndex": "0_29",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус комент"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "нажатие на комент"
+        }
+      },
+      {
+        "type": "inputContent",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div[1]/div/div[1]/div/div/div/div/div/div[2]/div/div/div/div",
+          "serialType": "fixedValue",
+          "selectorType": "selector",
+          "element": "",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "intervals": 300,
+          "content": "Great",
+          "isRandom": "1",
+          "randomContent": "Great\r\nNice to see it\r\nwell\r\ni'm trust it\r\nHmm\r\nWow!\r\n.\r\nSoo interesting",
+          "randomInputNum": {
+            "min": 0.1,
+            "max": 10
+          },
+          "remark": "ввод комента"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "//*[@id=\"layers\"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "post нажатие"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+
+
+
+
+      {
+        "type": "gotoUrl",
+        "config": {
+          "url": "https://x.com/bluwhaleai/status/1798091705897357496",
+          "timeout": 10000,
+          "remark": "переход по ссылке"
+        }
+      },
+      
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на like"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "like"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "подтверждение репоста"
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте",
+          "_copyItemIndex": "0_28",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост",
+          "_copyItemIndex": "0_29",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус комент"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "нажатие на комент"
+        }
+      },
+      {
+        "type": "inputContent",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div[1]/div/div[1]/div/div/div/div/div/div[2]/div/div/div/div",
+          "serialType": "fixedValue",
+          "selectorType": "selector",
+          "element": "",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "intervals": 300,
+          "content": "Great",
+          "isRandom": "1",
+          "randomContent": "Great\r\nNice to see it\r\nwell\r\ni'm trust it\r\nHmm\r\nWow!\r\n.\r\nSoo interesting",
+          "randomInputNum": {
+            "min": 0.1,
+            "max": 10
+          },
+          "remark": "ввод комента"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "//*[@id=\"layers\"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "post нажатие"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+
+
+
+
+      {
+        "type": "gotoUrl",
+        "config": {
+          "url": "https://x.com/bluwhaleai/status/1796529863840436506",
+          "timeout": 10000,
+          "remark": "переход по ссылке"
+        }
+      },
+      
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на like"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "like"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "подтверждение репоста"
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте",
+          "_copyItemIndex": "0_28",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост",
+          "_copyItemIndex": "0_29",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус комент"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "нажатие на комент"
+        }
+      },
+      {
+        "type": "inputContent",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div[1]/div/div[1]/div/div/div/div/div/div[2]/div/div/div/div",
+          "serialType": "fixedValue",
+          "selectorType": "selector",
+          "element": "",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "intervals": 300,
+          "content": "Great",
+          "isRandom": "1",
+          "randomContent": "Great\r\nNice to see it\r\nwell\r\ni'm trust it\r\nHmm\r\nWow!\r\n.\r\nSoo interesting",
+          "randomInputNum": {
+            "min": 0.1,
+            "max": 10
+          },
+          "remark": "ввод комента"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "//*[@id=\"layers\"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "post нажатие"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+
+
+
+
+      {
+        "type": "gotoUrl",
+        "config": {
+          "url": "https://x.com/bluwhaleai/status/1795379734685348258",
+          "timeout": 10000,
+          "remark": "переход по ссылке"
+        }
+      },
+      
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на like"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[3]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "like"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "подтверждение репоста"
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус на репосте",
+          "_copyItemIndex": "0_28",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/section/div/div/div[1]/div/div/article/div/div/div[3]/div[5]/div/div/div[2]/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "репост",
+          "_copyItemIndex": "0_29",
+          "_copyItemType": ""
+        }
+      },
+      {
+        "type": "focusElement",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "remark": "фокус комент"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div[2]/div/div[3]/div/div/div/a[1]/div[2]/div",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "нажатие на комент"
+        }
+      },
+      {
+        "type": "inputContent",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div[1]/div/div[1]/div/div/div/div/div/div[2]/div/div/div/div",
+          "serialType": "fixedValue",
+          "selectorType": "selector",
+          "element": "",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "intervals": 300,
+          "content": "Great",
+          "isRandom": "1",
+          "randomContent": "Great\r\nNice to see it\r\nwell\r\ni'm trust it\r\nHmm\r\nWow!\r\n.\r\nSoo interesting",
+          "randomInputNum": {
+            "min": 0.1,
+            "max": 10
+          },
+          "remark": "ввод комента"
+        }
+      },
+      {
+        "type": "click",
+        "config": {
+          "selectorRadio": "XPath",
+          "selector": "//*[@id=\"layers\"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div/button",
+          "selectorType": "selector",
+          "element": "",
+          "serialType": "fixedValue",
+          "serial": 1,
+          "serialMin": 1,
+          "serialMax": 50,
+          "button": "left",
+          "type": "click",
+          "remark": "post нажатие"
+        }
+      },
+      {
+        "type": "waitTime",
+        "config": {
+          "timeoutType": "fixedValue",
+          "timeout": 10000,
+          "timeoutMin": 1000,
+          "timeoutMax": 300000,
+          "remark": ""
+        }
+      }
+  ]
